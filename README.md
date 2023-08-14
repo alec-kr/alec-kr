@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://your-image-url-here.com" alt="Your Name">
-</p>
+</p> -->
 
 # Hi there! 👋 I'm Alec
 
