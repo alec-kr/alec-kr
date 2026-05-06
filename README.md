@@ -2,15 +2,30 @@
   <img src="https://your-image-url-here.com" alt="Your Name">
 </p> -->
 
+## Alec Ramdhan
+Software developer specializing in data systems and computer vision, building production-ready tools, real-time ML pipelines, and open-source developer tooling.
 
-## 💡 My Projects
+## Open Source Contributions
 
-### 🏎️ F1PyStats - Formula 1 Data for Developers
-As a passionate Formula 1 fan, I wanted to create a tool that fellow developers and enthusiasts could use to explore the exciting world of motorsport. [Check it out!](https://github.com/alec-kr/F1PyStats)
+- **JupyterLab** — added MIME type support for `.webp` image files in the rendermime package.  
+  PR: jupyterlab/jupyterlab#13066
 
-### 🚗 DashSentinel - Driver Attention Monitoring System
-DashSentinel is a real-time driver monitoring system that uses computer vision to detect signs of drowsiness, distraction, and reduced attention. The system analyzes driver behavior and provides alerts to help prevent unsafe driving situations, combining software, safety, and automotive-focused engineering. [Check it out!](https://github.com/alec-kr/DashSentinel)
+- **Lumino** — improved rendering performance by checking for hidden items before re-rendering.  
+  PR: jupyterlab/lumino#531
 
-### 🎮 Galactic Assault - 2D Space Shoot-em Game
-Built using C# on the Unity platform, this game brings together my passion for game development and creativity. [Check it out!](https://github.com/alec-kr/GalacticAssault)
+## Projects
 
+### [F1PyStats](https://github.com/alec-kr/F1PyStats) - Formula 1 Data for Developers
+
+An open-source Python package for accessing and analyzing Formula 1 data. Built for developers, motorsport fans, and data projects that need clean F1-related stats and utilities.
+
+**Tech:** Python, packaging, APIs/data handling  
+**Highlights:** 60+ GitHub stars, 20+ forks
+
+### [DashSentinel](https://github.com/alec-kr/DashSentinel) - Driver Attention Monitoring System
+
+A real-time computer vision system that detects signs of drowsiness, distraction, yawning, and reduced driver attention using a camera-based pipeline.
+
+**Tech:** Python, OpenCV, MediaPipe, TensorFlow, embedded system integration
+
+**Highlights:** real-time detection, attentiveness scoring, ESP8266 OLED dashboard prototype
